@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages 
+<img src="https://user-images.githubusercontent.com/50252415/83442099-4e868880-a450-11ea-9989-5b5238164524.jpg" width="150">
+
 ## الاسم : خالد عبدالله سويلم المطيري
 ## الرقم الجامعي : 1845326
 ## السنة الدراسية الثالثة لي في الجامعة
@@ -10,5 +11,4 @@
 ## 4- UML Diagrams رسم
 
 
-![Khalid](https://user-images.githubusercontent.com/50252415/83442099-4e868880-a450-11ea-9989-5b5238164524.jpg) 
 
