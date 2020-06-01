@@ -9,4 +9,6 @@
 ## 3- ER Diagram رسم   
 ## 4- UML Diagrams رسم
 
-![](images/Khalid.jpg)
+
+![Khalid](https://user-images.githubusercontent.com/50252415/83442099-4e868880-a450-11ea-9989-5b5238164524.jpg) 
+
