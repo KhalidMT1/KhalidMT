@@ -2,7 +2,12 @@
 ## الاسم : خالد عبدالله سويلم المطيري
 ## الرقم الجامعي : 1845326
 ## السنة الدراسية الثالثة لي في الجامعة
-##
+## الهوايات : القراءة وممارسة الرياضة
+## المهارات :
+## 1- Java البرمجة بلغة
+## 2- SQL البرمجة بلغة 
+## 3- ER Diagram رسم   
+## 4- UML Diagrams رسم
 You can use the [editor on GitHub](https://github.com/KhalidMT1/KhalidMT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -14,7 +19,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-#خالد
 ## Header 2
 ### Header 3
 
